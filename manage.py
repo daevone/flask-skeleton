@@ -4,6 +4,7 @@
 Usage: ./manage.py [submanager] <command>
 Manage script for development. Type ./manage.py for more info
 """
+jjhjh
 import os
 
 from flask_script import Manager
